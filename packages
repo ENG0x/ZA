@@ -1,0 +1,16 @@
+Package: com.riad.watusi3
+Version: 1.2.50
+Architecture: iphoneos-arm64
+Maintainer: Fouad Raheb
+Filename: ./debs/com.riad.watusi3_1.2.50_rootless.deb
+Size: 6916696
+MD5sum: ff25e2eaf9ab77921932b47e76608136
+SHA1: b2e4374ab735b556c860ea2aaf4918ed990d280e
+SHA256: 987d8058b2f446c49bb3f93a7d693ceb48ea51f6283896efbc7722fff15a06e0
+Section: Tweaks
+Description: The all-in-one tweak for WhatsApp Messenger. To activate the crack: 1- Go to “Account & License” and register a new account (can be random characters). 2- Click on “View Account”, it should display “Unauthorized”. 3-Enjoy!
+Author: Fouad Raheb
+Header: https://i.postimg.cc/65Hq4Qgw/B79-D144-B-F8-B6-42-BF-9917-C1-B1-E53-CD34-B.jpg
+Icon: https://i.postimg.cc/t4gm3G4m/92247-D6-D-8-C83-44-B3-8-D61-CE99-E3-BC785-F.jpg
+Name: Watusi 3 for WhatsApp
+
